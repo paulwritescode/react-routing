@@ -1,2 +1,2 @@
-# react-routing
-Learning the idea of routing in react.
+# Tic tac Toe game
+Learning reac with tic tac toe
